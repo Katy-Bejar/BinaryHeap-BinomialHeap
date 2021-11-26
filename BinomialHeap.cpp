@@ -1,8 +1,10 @@
 /*
+
 INTEGRANTES:
 -Suni Quispe Yanira Angie
 -Bejar Roman Edson Bryan
 -Bejar Roman Katherine Nikole
+
 */
 #include <iostream>
 #include <fstream>
